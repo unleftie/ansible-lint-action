@@ -1,4 +1,4 @@
-name: Run Ansible Lint
+name: Run Ansible Lint action
 description: Run Ansible Lint
 author: Denys Rondaliev <denysrondaliev@gmail.com>
 
